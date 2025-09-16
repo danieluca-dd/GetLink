@@ -125,7 +125,7 @@ hr {
   padding: 80px 150px;
   background: #fff;
   border: 1px solid #696968;
-  border-top: 4px solid #C00026;
+  border-top: 4px solid #12284E;
   border-radius: 0px 0px 5px 5px;
   -moz-border-radius: 0px 0px 5px 5px;
   -webkit-box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.35);
@@ -695,5 +695,6 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
+
 
 
